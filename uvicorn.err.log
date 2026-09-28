@@ -1,0 +1,6 @@
+INFO:     Started server process [16228]
+INFO:     Waiting for application startup.
+2026-09-27 16:52:53,770 INFO     legalease :: database ready (sqlite)
+2026-09-27 16:52:53,771 INFO     legalease :: LegalEase API 1.0.0 ready | ai_mode=demo | model=n/a
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
